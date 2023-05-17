@@ -1,0 +1,125 @@
+year,state,LocationDesc,prevalence_percent,excise_tax,Population Estimate,Median income,avg_sales_per_capita,us_overall_party,income_above_50k,income_bucket,hs_dropout_rate,teen_birth_rate,region,region_number,White_Prop,Male_Percent,Female_Percent,prop_adults_with_children,treatment,West,West_Coast
+2013,WY,Wyoming,17.4,0.0,582122.0,61570.5,60.8,Democrat,1,between 50k to 75k,6.2,29.6,West,4,0.85,0.504,0.496,0.353,1,west,True
+2013,NY,New York,10.6,1.0,19624447.0,51904.5,16.6,Democrat,1,between 50k to 75k,6.6,17.7,Northeast,1,0.57,0.484,0.516,0.32,0,New York,False
+2017,NY,New York,5.5,0.0,19589572.0,61995.0,13.3,Republican,1,between 50k to 75k,5.0,12.5,Northeast,1,0.552,0.484,0.516,0.304,0,New York,False
+2019,NY,New York,4.2,0.0,19453561.0,71855.0,11.7,Republican,1,between 50k to 75k,12.6,11.4,Northeast,1,0.552,0.484,0.516,0.306,0,New York,False
+2013,OH,Ohio,15.1,0.0,11576684.0,48573.0,54.6,Democrat,0,between 25k to 50k,6.1,27.2,Midwest,0,0.806,0.487,0.513,0.339,1,Ohio,False
+2019,OH,Ohio,4.9,0.0,11689100.0,64663.0,45.7,Republican,1,between 50k to 75k,8.9,18.8,Midwest,0,0.786,0.489,0.511,0.334,1,Ohio,False
+2013,OK,Oklahoma,18.5,0.0,3853214.0,44969.5,67.2,Democrat,0,between 25k to 50k,8.8,42.9,Southwest,3,0.677,0.49,0.51,0.357,1,Oklahoma,False
+2017,OK,Oklahoma,12.5,0.0,3931316.0,53444.0,60.5,Republican,1,between 50k to 75k,7.3,29.7,Southwest,3,0.659,0.489,0.511,0.355,1,Oklahoma,False
+2019,OK,Oklahoma,9.1,0.0,3956971.0,59397.0,42.8,Republican,1,between 50k to 75k,11.3,27.4,Southwest,3,0.65,0.49,0.51,0.354,1,Oklahoma,False
+2013,AZ,Arizona,14.1,0.0,6632764.0,51606.5,24.4,Democrat,1,between 50k to 75k,9.4,33.1,Southwest,3,0.568,0.492,0.508,0.346,0,west,True
+2017,AZ,Arizona,7.1,0.0,7044008.0,60412.5,22.5,Republican,1,between 50k to 75k,8.0,22.0,Southwest,3,0.55,0.492,0.508,0.333,0,west,True
+2019,AZ,Arizona,5.3,0.0,7278717.0,70674.0,20.7,Republican,1,between 50k to 75k,11.7,18.5,Southwest,3,0.542,0.493,0.507,0.332,0,west,True
+2013,KY,Kentucky,17.9,0.0,4404659.0,43518.5,93.5,Democrat,0,between 25k to 50k,7.6,39.5,South,2,0.86,0.489,0.511,0.344,1,Kentucky,False
+2017,KY,Kentucky,14.3,0.0,4452268.0,50510.0,85.6,Republican,1,between 50k to 75k,5.2,29.0,South,2,0.849,0.491,0.509,0.348,1,Kentucky,False
+2019,KY,Kentucky,8.9,0.0,4467673.0,55662.0,73.3,Republican,1,between 50k to 75k,12.3,24.9,South,2,0.845,0.49,0.51,0.34,1,Kentucky,False
+2013,NM,New Mexico,14.4,0.0,2092273.0,41146.5,26.4,Democrat,0,between 25k to 50k,8.4,43.3,Southwest,3,0.394,0.492,0.508,0.341,0,west,True
+2017,NM,New Mexico,10.6,0.0,2091784.0,46728.0,24.0,Republican,0,between 25k to 50k,7.9,27.9,Southwest,3,0.373,0.493,0.507,0.317,0,west,True
+2019,NM,New Mexico,8.9,0.0,2096829.0,53113.0,22.6,Republican,1,between 50k to 75k,13.2,24.4,Southwest,3,0.367,0.488,0.512,0.323,0,west,True
+2013,NV,Nevada,10.3,0.0,2775970.0,48607.5,43.2,Democrat,0,between 25k to 50k,10.9,30.3,West,4,0.522,0.499,0.501,0.332,0,west,True
+2017,NV,Nevada,6.7,0.0,2969905.0,57295.5,36.3,Republican,1,between 50k to 75k,7.6,21.9,West,4,0.489,0.497,0.503,0.325,0,west,True
+2019,NV,Nevada,3.6,0.0,3080156.0,70906.0,32.0,Republican,1,between 50k to 75k,13.0,18.9,West,4,0.478,0.497,0.503,0.32,0,west,True
+2013,WV,West Virginia,19.6,0.0,1853914.0,41655.0,103.1,Democrat,0,between 25k to 50k,7.6,40.1,South,2,0.932,0.491,0.509,0.316,1,West Virginia,False
+2017,WV,West Virginia,14.4,0.0,1817004.0,46174.5,82.2,Republican,0,between 25k to 50k,4.6,27.1,South,2,0.926,0.49,0.51,0.311,1,West Virginia,False
+2019,WV,West Virginia,13.5,0.0,1792147.0,53706.0,75.0,Republican,1,between 50k to 75k,11.9,25.2,South,2,0.925,0.491,0.509,0.32,1,West Virginia,False
+2013,FL,Florida,10.8,0.0,19545621.0,48209.0,44.3,Democrat,0,between 25k to 50k,7.6,24.6,South,2,0.563,0.485,0.515,0.304,0,Florida,False
+2017,FL,Florida,5.7,0.0,20963613.0,53383.5,40.6,Republican,1,between 50k to 75k,6.7,18.2,South,2,0.539,0.485,0.515,0.3,0,Florida,False
+2019,FL,Florida,4.8,0.0,21477737.0,58368.0,36.2,Republican,1,between 50k to 75k,11.0,16.2,South,2,0.53,0.485,0.515,0.291,0,Florida,False
+2013,NE,Nebraska,10.9,0.0,1865279.0,55698.5,51.2,Democrat,1,between 50k to 75k,4.4,24.9,Midwest,0,0.809,0.494,0.506,0.375,1,Nebraska,False
+2017,NE,Nebraska,7.4,0.0,1915947.0,59601.0,43.4,Republican,1,between 50k to 75k,5.3,18.1,Midwest,0,0.792,0.498,0.502,0.378,0,Nebraska,False
+2019,NE,Nebraska,4.2,0.0,1934408.0,73071.0,40.6,Republican,1,between 50k to 75k,8.3,15.3,Midwest,0,0.785,0.497,0.503,0.386,1,Nebraska,False
+2013,CT,Connecticut,13.5,0.0,3594841.0,68536.0,31.4,Democrat,1,between 50k to 75k,5.1,12.9,Northeast,1,0.695,0.486,0.514,0.346,0,Connecticut,False
+2017,CT,Connecticut,7.9,0.0,3573297.0,73542.0,26.5,Republican,1,between 50k to 75k,4.0,8.8,Northeast,1,0.667,0.486,0.514,0.326,0,Connecticut,False
+2019,CT,Connecticut,3.7,0.0,3565287.0,87291.0,21.9,Republican,1,between 75k to 100k,8.9,7.7,Northeast,1,0.657,0.487,0.513,0.316,0,Connecticut,False
+2013,NH,New Hampshire,13.8,0.0,1326622.0,70210.5,89.6,Democrat,1,between 50k to 75k,3.1,12.6,Northeast,1,0.917,0.491,0.509,0.35,1,New Hampshire,False
+2017,NH,New Hampshire,7.8,0.0,1348787.0,75215.5,87.3,Republican,1,between 75k to 100k,3.7,8.4,Northeast,1,0.906,0.496,0.504,0.318,1,New Hampshire,False
+2019,NH,New Hampshire,5.5,0.0,1359711.0,86900.0,78.4,Republican,1,between 75k to 100k,6.4,6.6,Northeast,1,0.898,0.494,0.506,0.313,1,New Hampshire,False
+2013,DE,Delaware,14.2,0.0,923576.0,53155.0,77.1,Democrat,1,between 50k to 75k,6.3,24.7,South,2,0.643,0.482,0.518,0.311,1,Delaware,False
+2017,DE,Delaware,6.2,0.0,956823.0,63639.5,72.6,Republican,1,between 50k to 75k,4.1,18.5,South,2,0.626,0.481,0.519,0.303,1,Delaware,False
+2013,WI,Wisconsin,11.8,0.0,5736754.0,53492.0,39.8,Democrat,1,between 50k to 75k,4.9,19.6,Midwest,0,0.826,0.495,0.505,0.344,0,Wisconsin,False
+2017,WI,Wisconsin,7.8,0.0,5790186.0,63466.5,39.0,Republican,1,between 50k to 75k,4.2,13.8,Midwest,0,0.815,0.495,0.505,0.343,0,Wisconsin,False
+2019,WI,Wisconsin,5.7,0.0,5822434.0,67355.0,35.4,Republican,1,between 50k to 75k,7.1,12.5,Midwest,0,0.811,0.493,0.507,0.335,0,Wisconsin,False
+2013,NJ,New Jersey,12.9,0.0,8856972.0,62768.0,30.6,Democrat,1,between 50k to 75k,4.3,14.8,Northeast,1,0.575,0.486,0.515,0.36,0,New Jersey,False
+2019,NJ,New Jersey,3.8,0.0,8882190.0,87726.0,24.1,Republican,1,between 75k to 100k,9.5,10.0,Northeast,1,0.545,0.487,0.513,0.344,0,New Jersey,False
+2013,GA,Georgia,12.8,0.0,9972479.0,47215.5,49.9,Democrat,0,between 25k to 50k,8.7,30.5,South,2,0.549,0.483,0.517,0.347,0,Georgia,False
+2019,GA,Georgia,4.0,0.0,10617423.0,56628.0,43.3,Republican,1,between 50k to 75k,11.8,19.7,South,2,0.52,0.482,0.518,0.333,1,Georgia,False
+2013,ND,North Dakota,19.0,0.0,722036.0,56020.0,72.5,Democrat,1,between 50k to 75k,7.0,24.1,Midwest,0,0.874,0.507,0.493,0.354,1,North Dakota,False
+2017,ND,North Dakota,12.6,0.0,754942.0,60026.5,65.2,Republican,1,between 50k to 75k,4.0,16.2,Midwest,0,0.847,0.51,0.49,0.363,1,North Dakota,False
+2019,ND,North Dakota,8.3,0.0,762062.0,70031.0,59.9,Republican,1,between 50k to 75k,6.7,15.6,Midwest,0,0.841,0.505,0.495,0.373,1,North Dakota,False
+2013,NC,North Carolina,15.0,0.0,9843336.0,43772.5,57.5,Democrat,0,between 25k to 50k,8.0,28.4,South,2,0.645,0.482,0.518,0.337,1,North Carolina,False
+2017,NC,North Carolina,12.1,0.0,10268233.0,49945.0,54.5,Republican,0,between 25k to 50k,5.8,20.6,South,2,0.631,0.482,0.519,0.344,1,North Carolina,False
+2019,NC,North Carolina,8.3,0.0,10488084.0,61159.0,51.6,Republican,1,between 50k to 75k,11.0,18.2,South,2,0.627,0.48,0.52,0.338,1,North Carolina,False
+2013,HI,Hawaii,10.4,0.0,1408243.0,62821.5,27.0,Democrat,1,between 50k to 75k,4.7,25.1,West,4,0.217,0.489,0.511,0.312,0,west,True
+2017,HI,Hawaii,8.1,0.0,1424393.0,73587.0,25.1,Republican,1,between 50k to 75k,3.2,19.1,West,4,0.207,0.488,0.512,0.309,0,west,True
+2019,HI,Hawaii,5.3,0.0,1415872.0,88006.0,22.5,Republican,1,between 75k to 100k,7.3,15.7,West,4,0.204,0.488,0.512,0.29,0,west,True
+2013,VA,Virginia,11.1,0.0,8252427.0,66763.5,69.4,Democrat,1,between 50k to 75k,4.4,20.1,South,2,0.638,0.484,0.516,0.338,1,Virginia,False
+2017,VA,Virginia,6.5,0.0,8463587.0,71052.0,60.8,Republican,1,between 50k to 75k,3.3,15.0,South,2,0.619,0.484,0.516,0.336,1,Virginia,False
+2019,VA,Virginia,5.5,0.0,8535519.0,81313.0,51.6,Republican,1,between 75k to 100k,9.2,13.6,South,2,0.613,0.484,0.516,0.33,1,Virginia,False
+2013,MA,Massachusetts,10.7,0.0,6713315.0,62746.0,32.2,Democrat,1,between 50k to 75k,4.0,12.1,Northeast,1,0.748,0.484,0.516,0.331,0,Massachusetts,False
+2017,MA,Massachusetts,6.4,0.0,6859789.0,74735.0,24.3,Republican,1,between 50k to 75k,3.6,8.1,Northeast,1,0.717,0.486,0.515,0.32,0,Massachusetts,False
+2019,MA,Massachusetts,5.0,0.0,6892503.0,87707.0,21.3,Republican,1,between 75k to 100k,8.8,6.9,Northeast,1,0.705,0.486,0.514,0.312,0,Massachusetts,False
+2013,ME,Maine,12.8,0.0,1328009.0,52539.0,48.5,Democrat,1,between 50k to 75k,3.9,17.4,Northeast,1,0.941,0.488,0.512,0.298,0,Maine,False
+2017,ME,Maine,8.7,0.0,1334612.0,52490.0,49.6,Republican,1,between 50k to 75k,2.9,13.1,Northeast,1,0.937,0.489,0.511,0.306,1,Maine,False
+2019,ME,Maine,6.8,0.0,1344212.0,66546.0,42.6,Republican,1,between 50k to 75k,6.3,9.1,Northeast,1,0.932,0.484,0.516,0.302,1,Maine,False
+2013,MD,Maryland,11.9,0.0,5923188.0,67307.5,32.6,Democrat,1,between 50k to 75k,5.4,19.4,South,2,0.532,0.483,0.517,0.339,0,Maryland,False
+2017,MD,Maryland,8.2,0.0,6023868.0,81588.5,29.2,Republican,1,between 75k to 100k,4.0,14.2,South,2,0.507,0.482,0.518,0.332,0,Maryland,False
+2019,MD,Maryland,5.0,0.0,6045680.0,95572.0,26.4,Republican,1,between 75k to 100k,9.2,13.9,South,2,0.499,0.48,0.52,0.332,0,Maryland,False
+2013,IL,Illinois,14.1,0.0,12895129.0,55566.5,31.7,Democrat,1,between 50k to 75k,5.4,24.6,Midwest,0,0.628,0.489,0.511,0.346,0,Illinois,False
+2017,IL,Illinois,7.6,0.0,12778828.0,65289.0,30.7,Republican,1,between 50k to 75k,5.1,17.4,Midwest,0,0.613,0.489,0.511,0.341,0,Illinois,False
+2019,IL,Illinois,4.7,1.0,12671821.0,74399.0,29.3,Republican,1,between 50k to 75k,10.1,14.6,Midwest,0,0.609,0.487,0.513,0.331,0,Illinois,False
+2013,LA,Louisiana,12.1,0.0,4624527.0,43023.5,73.3,Democrat,0,between 25k to 50k,11.6,39.2,South,2,0.599,0.482,0.518,0.333,1,Louisiana,False
+2017,LA,Louisiana,12.3,0.0,4670560.0,43734.0,57.6,Republican,0,between 25k to 50k,8.0,29.1,South,2,0.588,0.482,0.518,0.325,1,Louisiana,False
+2019,LA,Louisiana,8.4,0.0,4648794.0,51707.0,50.8,Republican,1,between 50k to 75k,13.8,27.8,South,2,0.588,0.481,0.519,0.323,1,Louisiana,False
+2013,ID,Idaho,12.2,0.0,1611206.0,50117.0,43.1,Democrat,1,between 50k to 75k,7.2,25.7,West,4,0.833,0.499,0.501,0.401,0,west,True
+2017,ID,Idaho,9.1,0.0,1717715.0,59852.5,39.0,Republican,1,between 50k to 75k,5.7,18.6,West,4,0.821,0.501,0.499,0.375,0,west,True
+2019,ID,Idaho,5.3,0.0,1787065.0,65988.0,35.8,Republican,1,between 50k to 75k,8.8,14.9,West,4,0.816,0.499,0.501,0.379,0,west,True
+2013,KS,Kansas,10.2,0.0,2893212.0,49652.5,41.0,Democrat,0,between 25k to 50k,4.9,29.6,Midwest,0,0.773,0.494,0.506,0.382,0,Kansas,False
+2017,KS,Kansas,7.2,0.0,2908718.0,57386.0,34.5,Republican,1,between 50k to 75k,5.7,21.3,Midwest,0,0.761,0.495,0.505,0.371,0,Kansas,False
+2019,KS,Kansas,5.8,0.0,2913314.0,73151.0,31.1,Republican,1,between 50k to 75k,8.4,19.2,Midwest,0,0.757,0.49,0.51,0.37,0,Kansas,False
+2013,RI,Rhode Island,8.0,0.0,1055081.0,57067.5,35.3,Democrat,1,between 50k to 75k,5.8,17.7,Northeast,1,0.746,0.49,0.51,0.315,0,Rhode Island,False
+2017,RI,Rhode Island,6.1,0.0,1055673.0,65895.5,34.2,Republican,1,between 50k to 75k,3.2,11.4,Northeast,1,0.722,0.485,0.515,0.319,0,Rhode Island,False
+2019,RI,Rhode Island,4.2,0.0,1059361.0,70151.0,29.1,Republican,1,between 50k to 75k,10.9,10.0,Northeast,1,0.705,0.489,0.511,0.299,0,Rhode Island,False
+2013,SC,South Carolina,16.0,0.0,4764080.0,43656.0,62.0,Democrat,0,between 25k to 50k,8.8,31.6,South,2,0.642,0.48,0.52,0.328,1,South Carolina,False
+2017,SC,South Carolina,10.0,0.0,5021268.0,54754.0,55.5,Republican,1,between 50k to 75k,6.1,21.7,South,2,0.64,0.48,0.52,0.319,1,South Carolina,False
+2019,SC,South Carolina,5.9,0.0,5148714.0,62028.0,52.6,Republican,1,between 50k to 75k,11.2,21.6,South,2,0.637,0.477,0.523,0.32,1,South Carolina,False
+2013,MT,Montana,15.2,0.0,1013569.0,43666.5,44.3,Democrat,0,between 25k to 50k,8.5,27.9,West,4,0.874,0.497,0.503,0.326,0,west,True
+2017,MT,Montana,12.1,0.0,1052482.0,58247.0,41.1,Republican,1,between 50k to 75k,5.7,21.2,West,4,0.865,0.496,0.504,0.309,0,west,True
+2019,MT,Montana,7.7,0.0,1068778.0,60195.0,36.4,Republican,1,between 50k to 75k,5.6,16.3,West,4,0.861,0.499,0.501,0.325,0,west,True
+2013,MI,Michigan,11.8,0.0,9913065.0,52684.0,45.4,Democrat,1,between 50k to 75k,6.4,23.6,Midwest,0,0.762,0.489,0.511,0.336,0,Michigan,False
+2017,MI,Michigan,10.5,0.0,9973114.0,57052.5,44.4,Republican,1,between 50k to 75k,5.2,16.4,Midwest,0,0.753,0.49,0.51,0.331,1,Michigan,False
+2019,MI,Michigan,4.5,0.0,9986857.0,64119.0,41.3,Republican,1,between 50k to 75k,8.4,15.1,Midwest,0,0.749,0.49,0.51,0.322,1,Michigan,False
+2013,AL,Alabama,18.0,0.0,4830081.0,44350.5,64.6,Democrat,0,between 25k to 50k,8.9,34.3,South,2,0.666,0.481,0.519,0.339,1,Alabama,False
+2019,AL,Alabama,7.1,0.0,4903185.0,56200.0,53.1,Republican,1,between 50k to 75k,12.6,25.6,South,2,0.654,0.481,0.519,0.32,1,Alabama,False
+2013,SD,South Dakota,16.5,0.0,842316.0,53933.0,42.7,Democrat,1,between 50k to 75k,7.1,29.1,Midwest,0,0.837,0.502,0.498,0.37,0,South Dakota,False
+2019,SD,South Dakota,12.0,0.0,884659.0,64255.0,35.0,Republican,1,between 50k to 75k,7.5,19.2,Midwest,0,0.819,0.504,0.496,0.374,0,South Dakota,False
+2013,MO,Missouri,14.9,0.0,6040715.0,48307.0,87.4,Democrat,0,between 25k to 50k,5.9,30.0,Midwest,0,0.806,0.487,0.513,0.345,1,Missouri,False
+2017,MO,Missouri,9.2,0.0,6106670.0,56707.5,79.5,Republican,1,between 50k to 75k,5.6,22.5,Midwest,0,0.797,0.488,0.512,0.345,1,Missouri,False
+2019,MO,Missouri,6.5,0.0,6137428.0,60597.0,72.2,Republican,1,between 50k to 75k,9.0,20.3,Midwest,0,0.794,0.487,0.513,0.344,1,Missouri,False
+2013,AK,Alaska,10.6,0.0,737068.0,66804.5,39.0,Democrat,1,between 50k to 75k,6.2,30.3,West,4,0.625,0.513,0.487,0.341,0,west,True
+2017,AK,Alaska,10.9,0.0,739700.0,75109.0,32.9,Republican,1,between 75k to 100k,5.3,22.0,West,4,0.61,0.513,0.487,0.351,0,west,True
+2019,AK,Alaska,8.4,0.0,731545.0,78394.0,30.4,Republican,1,between 75k to 100k,6.7,18.3,West,4,0.6,0.507,0.493,0.309,0,west,True
+2013,UT,Utah,4.4,0.0,2897640.0,62007.0,21.4,Democrat,1,between 50k to 75k,5.2,20.6,West,4,0.796,0.502,0.498,0.435,0,west,True
+2017,UT,Utah,3.8,0.0,3101042.0,70554.0,18.4,Republican,1,between 50k to 75k,4.1,15.2,West,4,0.785,0.502,0.498,0.418,0,west,True
+2019,UT,Utah,2.2,0.0,3205958.0,84523.0,15.9,Republican,1,between 75k to 100k,6.9,12.0,West,4,0.778,0.5,0.5,0.414,0,west,True
+2013,TN,Tennessee,15.4,0.0,6494340.0,42930.0,66.2,Democrat,0,between 25k to 50k,6.1,34.7,South,2,0.751,0.486,0.514,0.336,1,Tennessee,False
+2017,TN,Tennessee,9.4,0.0,6708799.0,55273.0,59.2,Republican,1,between 50k to 75k,5.3,26.6,South,2,0.741,0.484,0.516,0.332,1,Tennessee,False
+2019,TN,Tennessee,7.1,0.0,6829174.0,56627.0,55.5,Republican,1,between 50k to 75k,11.2,23.7,South,2,0.736,0.484,0.516,0.33,1,Tennessee,False
+2013,AR,Arkansas,19.1,0.0,2959400.0,39647.5,57.5,Democrat,0,between 25k to 50k,6.8,43.5,South,2,0.738,0.491,0.509,0.352,1,Arkansas,False
+2017,AR,Arkansas,13.7,0.0,3001345.0,49290.0,52.4,Republican,0,between 25k to 50k,5.7,32.8,South,2,0.725,0.489,0.511,0.354,1,Arkansas,False
+2019,AR,Arkansas,9.7,0.0,3017804.0,54539.0,47.6,Republican,1,between 50k to 75k,12.3,30.0,South,2,0.721,0.484,0.516,0.351,1,Arkansas,False
+2013,MS,Mississippi,17.2,0.0,2988711.0,36594.0,63.9,Democrat,0,between 25k to 50k,9.6,42.6,South,2,0.576,0.48,0.52,0.343,1,Mississippi,False
+2019,MS,Mississippi,6.6,0.0,2976149.0,44787.0,53.8,Republican,0,between 25k to 50k,14.4,29.1,South,2,0.566,0.475,0.525,0.329,1,Mississippi,False
+2013,TX,Texas,14.1,0.0,26480266.0,52216.5,36.2,Democrat,1,between 50k to 75k,8.2,41.0,Southwest,3,0.44,0.492,0.508,0.38,0,Texas,False
+2017,TX,Texas,7.4,0.0,28295273.0,59693.5,31.9,Republican,1,between 50k to 75k,6.4,27.6,Southwest,3,0.419,0.492,0.508,0.37,0,Texas,False
+2019,TX,Texas,4.9,0.0,28995881.0,67444.0,28.8,Republican,1,between 50k to 75k,15.2,24.0,Southwest,3,0.411,0.491,0.509,0.367,0,Texas,False
+2017,IA,Iowa,9.9,0.0,3141550.0,63474.0,45.0,Republican,1,between 50k to 75k,3.7,16.0,Midwest,0,0.859,0.493,0.507,0.367,1,Iowa,False
+2019,IA,Iowa,6.7,0.0,3155070.0,66054.0,41.6,Republican,1,between 50k to 75k,7.2,14.1,Midwest,0,0.853,0.495,0.505,0.366,1,Iowa,False
+2017,CA,California,5.4,1.0,39358497.0,69898.5,20.5,Republican,1,between 50k to 75k,4.6,15.1,West,4,0.37,0.494,0.506,0.332,0,west,True
+2017,CO,Colorado,7.0,0.0,5611885.0,74578.0,34.5,Republican,1,between 50k to 75k,4.6,16.1,West,4,0.683,0.499,0.501,0.334,0,Colorado,False
+2019,CO,Colorado,5.3,0.0,5758736.0,72499.0,30.4,Republican,1,between 50k to 75k,7.6,13.9,West,4,0.678,0.501,0.499,0.33,0,Colorado,False
+2017,PA,Pennsylvania,8.7,0.0,12787641.0,62229.0,40.5,Republican,1,between 50k to 75k,5.4,14.8,Northeast,1,0.767,0.488,0.512,0.323,0,Pennsylvania,False
+2019,PA,Pennsylvania,6.6,0.0,12801989.0,70582.0,35.7,Republican,1,between 50k to 75k,8.6,13.3,Northeast,1,0.76,0.487,0.513,0.323,0,Pennsylvania,False
+2017,VT,Vermont,9.3,0.0,624344.0,63743.5,36.3,Republican,1,between 50k to 75k,7.3,10.1,Northeast,1,0.931,0.493,0.507,0.309,0,Vermont,False
+2019,VT,Vermont,6.9,0.0,623989.0,74305.0,31.5,Republican,1,between 50k to 75k,6.1,7.6,Northeast,1,0.928,0.494,0.506,0.291,0,Vermont,False
+2019,DC,District of Columbia,5.3,1.0,705749.0,93111.0,9.1,Republican,1,between 75k to 100k,7.8,16.8,South,2,0.367,0.475,0.525,0.192,0,District of Columbia,False

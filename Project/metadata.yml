@@ -1,0 +1,17 @@
+---
+:id: 180004230
+:submitters:
+- :name: Bak Haghighi
+  :email: berkeleystudentcontact@gmail.com
+- :name: Daniel Jang
+  :email: hjang8659@berkeley.edu
+- :name: Rida Abdulwasay
+  :email: abdulwasayrida@berkeley.edu
+- :name: Saumya Sharma
+  :email: saumyasharma@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-05-10 04:34:09.838272000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-05-09 21:34:09.838272000 Z
+:status: processed
